@@ -1,0 +1,2 @@
+- 01 Zip Slip (CWE-22) - COMPLETED
+- 02 JWT jku/kid (next)
